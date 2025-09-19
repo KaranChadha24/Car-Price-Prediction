@@ -7,7 +7,7 @@ The main goal was to **showcase data exploration, feature engineering, and advan
 
 ## 📊 Dataset
 - Shape: **4300 rows × 9 columns**
-- Contains features related to car attributes (e.g., year, present price, fuel type, etc.).
+- Contains features related to car attributes (e.g., year, model, fuel type, etc.).
 - Target variable: **Selling Price**.
 
 ---
@@ -20,7 +20,9 @@ The main goal was to **showcase data exploration, feature engineering, and advan
 - Created meaningful visualizations to better understand the relationships between variables.
 
 👉 You can view all visualizations here:  
-[📂 Visualizations Folder](./Visualiaztons)
+👉 You can view all visualizations here:  
+[📂 Visualizations Folder](./Visualiaztions)
+
 
 ### 2. Data Preprocessing
 - **Cleaning**: Handled missing values and outliers.
