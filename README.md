@@ -20,7 +20,6 @@ The main goal was to **showcase data exploration, feature engineering, and advan
 - Created meaningful visualizations to better understand the relationships between variables.
 
 👉 You can view all visualizations here:  
-👉 You can view all visualizations here:  
 [📂 Visualizations Folder](./Visualiaztions)
 
 
@@ -38,7 +37,7 @@ The main goal was to **showcase data exploration, feature engineering, and advan
     - Random Forest Regressor
     - Gradient Boosting Regressor
     - XGBoost Regressor
-  - **Meta-Model**: Linear Regression
+
   - Used **5-Fold Cross Validation** and passthrough for better generalization.
 
 ### 4. Model Evaluation
@@ -62,7 +61,7 @@ The primary goal of this project was to **demonstrate strong data exploration an
 
 ## 📂 Files
 - `Car_Price_Prediction.ipynb` → Main notebook containing analysis & modeling  
-- `Car.csv` → Dataset (4300 × 9)  
+- `Car.csv` → Dataset via Kaggle 
 - `Visualiaztons/` → Folder with plots and visualizations  
 - `README.md` → Project documentation  
 
